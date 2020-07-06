@@ -1,5 +1,15 @@
 # PS教程
-Adobe Photoshop 教程
+Adobe Photoshop 教程 —— 一部来自于元卅馆的《元卅PS教程》。
+
+本教程以实用为主，每章节都让你学会一个新的技能，并将原理用通俗易懂的方式对你娓娓道来。
+
+在Bilibili和YouTube发布有视频教程。在官网[元卅馆](www.yuansasi.com)有对应文字讲义。
+
+- 第一版（2-11集全）：[Bilibili](https://space.bilibili.com/2878969/channel/detail?cid=63415), [YouTube](https://www.youtube.com/watch?v=33IpM1Hmst8&list=PLL8D6QIfkEnOHvuZyxiE_L2VmScR4omi-)
+
+- 第二版（1-4集连载中）：[Bilibili](https://space.bilibili.com/2878969/channel/detail?cid=1763), [YouTube](https://www.youtube.com/watch?v=Ig8YzaWk3M8&list=PLL8D6QIfkEnPALTAK3dFkjjRbH2EAzjuB)
+
+欢迎贡献idea，一起做出最好的PS教程。
 
 # 目录
 
